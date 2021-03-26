@@ -1,0 +1,2 @@
+# Usuarios_De_Banco
+Esta aplicacion en Lenguaje C registra usuarios bancarios, y permite hacer login para realizar operaciones comunes tales como Depositar Dinero, Retirar y Transferir a otro usuario que haya sido creado. Claramente los datos no son permanentes sino temporales, es decir que duraran mientras el programa se ejecute. Hecho a modo de practicas del lenguaje manejando Array de Estructuras.
